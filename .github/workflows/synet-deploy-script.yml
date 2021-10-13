@@ -23,3 +23,4 @@ jobs:
           upload-dir: packages/frontend/out
           github-token: ${{ secrets.GITHUB_TOKEN }}
           registry-seed: ${{ secrets.SKYNET_REGISTRY_SEED || '' }}
+          try-files: index.html /index.html
