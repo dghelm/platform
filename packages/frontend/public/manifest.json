@@ -29,6 +29,6 @@
   "iconPath": "./images/256x256_App_Icon.svg",
   "short_name": "SomethingVentured",
   "start_url": ".",
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
   "skylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w"
 }
